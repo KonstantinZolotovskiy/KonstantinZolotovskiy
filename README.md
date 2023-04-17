@@ -57,7 +57,7 @@ I’m QA engineer
 Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
 ## Тестирование UI
 Тестовый проект: <a target="_blank" href="https://github.com/KonstantinZolotovskiy/project_ui">project_ui</a></br></br>
-Проект по автоматизации тестирования сайта <a target="_blank" href=https://qa.guru>QA.GURU</a>
+Проект по автоматизации тестирования сайта <a target="_blank" href=https://qa.guru>qa.guru</a>
 
 ## Тестирование REST API
 Тестовый проект: <a target="_blank" href="https://github.com/KonstantinZolotovskiy/project_rest">project_rest</a></br></br>
